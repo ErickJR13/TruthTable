@@ -1,6 +1,6 @@
-# TruthTable
+# Is It True?
 
-Truth Table is a command line program I made to help me with my Discrete Mathematics course. I hope you find this helpful as well in your course.
+"Is it true?" is a command line program that checks whether an expression is true or false. This is based on the [Truth Table](https://en.wikipedia.org/wiki/Truth_table)
 
 Run it online on http://cpp.sh/7lmh
 
