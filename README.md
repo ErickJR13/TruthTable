@@ -26,6 +26,6 @@ A compiled .exe file to run on Windows machines is available to download on [Git
 
 **Version 1.01:** Text fixes
 
-*Written in C++*
+*Written in C++. Source code available by pressing the "View on Github" button above*
 
 [Go back to Main Page](https://erickjr.me)
