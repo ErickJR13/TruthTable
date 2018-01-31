@@ -20,7 +20,7 @@
 
 # Changelog
 
-**Version 1.1:** Text fixes
+**Version 1.01:** Text fixes
 
 
 #[Go back to Main Page](https://erickjr.me)
