@@ -31,4 +31,4 @@ A compiled .exe file to run on Windows machines is available to download on [Git
 ___
 
 
-# [Go back to Main Page](https://erickjr.me)
+# [Go back to Main Page](http://erickjr.me)
