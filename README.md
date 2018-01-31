@@ -1,8 +1,13 @@
 # Is It True?
 
-"Is it true?" is a command line program that checks whether an expression is true or false. This is based on the [Truth Table](https://en.wikipedia.org/wiki/Truth_table)
+"Is it true?" is a command line program that checks whether an expression is true or false. This program is based on the [Truth Table](https://en.wikipedia.org/wiki/Truth_table)
 
-Run it online on http://cpp.sh/7lmh
+
+# How do I run it?
+
+1. Visit [repl.it](https://repl.it/@ErickJR13/AnxiousIdealSpotteddolphin) and press the Run button right above the code and terminal. 
+2. Follow the Instructions!
+
 
 **List of things not supported**
 
@@ -18,4 +23,4 @@ Run it online on http://cpp.sh/7lmh
 **Version 1.1:** Text fixes
 
 
-#[Go back to Main Page](https://erickjreyes.me)
+#[Go back to Main Page](https://erickjr.me)
