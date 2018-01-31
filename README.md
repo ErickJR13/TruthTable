@@ -8,6 +8,9 @@
 1. Visit [repl.it](https://repl.it/@ErickJR13/AnxiousIdealSpotteddolphin) and press the Run button right above the code and terminal. 
 2. Follow the Instructions!
 
+# Download
+
+A compiled .exe file to run on Windows machines is available to download on [Github](https://github.com/ErickJR13/IsItTrue-/releases).
 
 **List of things not supported**
 
@@ -16,6 +19,7 @@
 * More than two variables
 * Implication of variables ( P -> Q)
 * Series of calculation ( not P -> (Q v P))
+
 
 
 # Changelog
